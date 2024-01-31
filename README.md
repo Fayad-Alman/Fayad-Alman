@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fayad-Alman
-- 👀 I’m interested in and currently learning artificial intelligence and machine learning algorithms in Python (and automation in Java)
-- 💞️ I’m looking to collaborate on various automation and machine learning projects in Python
+- 👀 I’m interested in artificial intelligence models and machine-learning algorithms in Python 
+- 💞️ I’m looking to collaborate on various automation and machine-learning projects
 - 📫 How to reach me: fayad.alman@gmail.com
 
 <!---
